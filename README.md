@@ -6,7 +6,8 @@ Beta builds of Video Inspector for testing.
 
 | Platform | File | Install |
 |---|---|---|
-| macOS (Apple Silicon) | `.dmg` | Open it and drag Video Inspector to Applications |
+| macOS (Apple Silicon, M1 and newer) | `_aarch64.dmg` | Open it and drag Video Inspector to Applications |
+| macOS (Intel) | `_x64.dmg` | Open it and drag Video Inspector to Applications |
 | Windows | `.msi` or `-setup.exe` | SmartScreen warning → **More info → Run anyway** |
 | Linux | `.AppImage` (or `.deb` / `.rpm`) | `chmod +x Video*.AppImage`, then run it |
 
